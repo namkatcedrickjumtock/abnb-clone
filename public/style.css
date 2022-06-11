@@ -1,0 +1,18 @@
+body {
+    font-family: 'poppins', sans-serif;
+    /* font-family: 'Kdam Thmor Pro', sans-serif; */
+}
+
+.container {
+    padding: 0%;
+}
+
+.container .card-deck .card {
+    position: relative;
+    height: fit-content;
+}
+
+.container .card-deck .card .badge {
+    position: absolute;
+    right: 0%;
+}
